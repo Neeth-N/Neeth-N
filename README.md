@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeth-n&show_icons=true&locale=en&layout=compact" alt="neeth-n" /></p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Neeth-N)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Neeth-N&theme=dark&mode=weekly)](https://git.io/streak-stats)
